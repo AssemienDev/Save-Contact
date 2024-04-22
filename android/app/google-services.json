@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215253106893",
+    "project_id": "save-contact-1ec7e",
+    "storage_bucket": "save-contact-1ec7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215253106893:android:80f258d47ce5de88606984",
+        "android_client_info": {
+          "package_name": "com.example.save_contact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeAJASPpouxTo2MLYxxDQsILVlP4BKdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
