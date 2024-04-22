@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAAoGgj4PkwUrC3rT4dZkr5k1J7jKFZjs0',
+    apiKey: 'YouApiKey',
     appId: '1:215253106893:web:7586b79177484a50606984',
     messagingSenderId: '215253106893',
     projectId: 'save-contact-1ec7e',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAeAJASPpouxTo2MLYxxDQsILVlP4BKdBw',
+    apiKey: 'YouApiKey',
     appId: '1:215253106893:android:80f258d47ce5de88606984',
     messagingSenderId: '215253106893',
     projectId: 'save-contact-1ec7e',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBBiPmiD1ZaeDRu3bmO5n0pRL-5yO0WvNc',
+    apiKey: 'YouApiKey',
     appId: '1:215253106893:ios:574831a0cdd658d5606984',
     messagingSenderId: '215253106893',
     projectId: 'save-contact-1ec7e',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBBiPmiD1ZaeDRu3bmO5n0pRL-5yO0WvNc',
+    apiKey: 'YouApiKey',
     appId: '1:215253106893:ios:0b4af84f03f86e09606984',
     messagingSenderId: '215253106893',
     projectId: 'save-contact-1ec7e',
