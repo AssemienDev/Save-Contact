@@ -20,9 +20,9 @@ Save Contact est une application de sauvegarde de contacts conçue pour vous aid
 <img src="screenShot/screen5.jpg" alt="Screenshot 5" width="300">
 <h3>Page de modififcation de mot de passe</h3>
 
-Licence
+<h3>Licence</h3>
 
-Ce projet est sous licence MIT - voir le fichier <a href="LICENCE">LICENCE</a> pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier <a href="LICENSE">LICENSE</a> pour plus de détails.
 
 
 
